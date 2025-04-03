@@ -8,7 +8,7 @@ Hey guys! 👋 This is my repo for learning and tracking progress on Java develo
 A structured roadmap to becoming a **Java Developer**, with interactive checkboxes to track your progress. ✅
 
 ## 📌 **1. Core Java (Beginner)**
-- [ ] Java Syntax & Basics (Variables, Data Types, Operators)
+- [x] Java Syntax & Basics (Variables, Data Types, Operators)
 - [ ] Control Flow (Loops, Conditionals)
 - [ ] Functions & Methods
 - [ ] OOP Concepts (Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction)
@@ -63,6 +63,19 @@ A structured roadmap to becoming a **Java Developer**, with interactive checkbox
 1. **Fork this repo** and track your progress.
 2. **Check off completed topics** as you learn them.
 3. **Contribute!** If you find useful resources, add them to the list.
+
+### ✅ **How to Tick Mark Completed Items?**
+To mark an item as completed, replace `[ ]` with `[x]`. Example:
+
+```
+- [x] Java Syntax & Basics ✅
+- [ ] Control Flow (Loops, Conditionals) 🔴
+- [ ] Functions & Methods 🟡
+```
+
+✅ - Green checkmark (Completed)
+🔴 - Red circle (Not started)
+🟡 - Yellow circle (In progress)
 
 ---
 
